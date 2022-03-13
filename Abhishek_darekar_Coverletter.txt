@@ -9,7 +9,7 @@ Upon learning about the Data Scientist posting with this company I was eager to 
 I have a well-rounded skill set in model evaluations and honed talents in data cleaning ,exploratory data analysis ,machine learning frameworks, deep learning, NLP and much more making me an ideal fit for the Data Scientist position.
  Furthermore, I have relevant industry-level experience skillset in Excel, SQL databases, BI tools(tableau,power BI),cloud services,docker,pyspark ,version control etc.
 
-My certifications on Google Data Analytics  along with ML,NLP courses from Udemy make me stand out from rest of the candidates and provide hands on industry level experience.
+My certifications on Google Data Analytics along with ML,NLP courses from Udemy make me stand out from rest of the candidates and provide hands on industry level experience.
  
 As my previous roles of Administrator with Transportation Business have strengthened my capabilities in time-management and critical thinking, including a keen attention to detail and accuracy.
 Initial career as java developer open doors for real time project management experience
