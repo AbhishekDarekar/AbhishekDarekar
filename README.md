@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hello, Welcome !!! 👋
 
 This is Abhishek
+I'm a Data Science enthusiast 
 
-Im currently pursuing a career in Data Science 
-My goal is to become a Data Scientist/ Machine Learning Engineer
+Google Data Analytics Certified /
+Data Scientist/ Machine Learning Engineer 
 
 Im proficient in Google data Analytics,Python programming ,SQL database along with Machine ,Deep Learning & Natural Language Processing.
 
