@@ -1,9 +1,10 @@
 ### Hello, Welcome !!! 👋
 
-This is Abhishek
+This is *Abhishek*
+
 I'm a Data Science enthusiast 
 
-Google Data Analytics Certified /
+Currently pursuing Tensorflow Developer certification for 
 Data Scientist/ Machine Learning Engineer 
 
 Im proficient in Google data Analytics,Python programming ,SQL database along with Machine ,Deep Learning & Natural Language Processing.
