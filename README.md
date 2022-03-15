@@ -7,7 +7,11 @@ I'm a Data Science enthusiast
 Currently pursuing Tensorflow Developer certification for 
 Data Scientist/ Machine Learning Engineer 
 
-Im proficient in Google data Analytics,Python programming ,SQL database along with Machine ,Deep Learning & Natural Language Processing.
+Im proficient in Google data Analytics,Python programming ,SQL/NoSQL databases along with Machine ,Deep Learning & Natural Language Processing.
+
+Other relevant skills include pyspark,MLflow,docker,kubernetes,cloud(Amazon EC2,Heroku,GCP)
+
+learning everyday,upskilling ,pushing myself to become an Expert in this field
 
 you can connect with me on my linkedin page
  www.linkedin.com/in/abhishek-g-darekar
