@@ -2,10 +2,10 @@
 
 This is *Abhishek*
 
-I'm a Data Science enthusiast 
+I'm a Data Scientist with 3+ years experience in NLP and machine learning 
 
-Currently pursuing Tensorflow Developer certification for 
-Data Scientist/ Machine Learning Engineer 
+Currently pursuing Tensorflow Developer certification
+ 
 
 Im proficient in Google data Analytics,Python programming ,SQL/NoSQL databases along with Machine ,Deep Learning & Natural Language Processing.
 
